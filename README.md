@@ -1,7 +1,9 @@
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Criando algo 'natty' com IA para Metaverso.
 
-Criando algo 'natty' com IA para Metaverso.
+```markdown
+
+Em desenvolvimento
+
 ```
 
 ## Links Interessantes
